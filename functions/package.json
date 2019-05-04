@@ -3,6 +3,7 @@
   "description": "Cloud Functions for Firebase",
   "scripts": {
     "lint": "eslint .",
+    "seed": "cross-env NODE_ENV=dev node ./appes6/seed/index.js",
     "serve": "cross-env NODE_ENV=dev firebase serve --only functions",
     "shell": "firebase functions:shell",
     "start": "npm run shell",
