@@ -7,7 +7,7 @@ const {
     settings,
     users,
     tenants
-} = require('./collections.seed');
+} = require('./collections_seed');
 // const db = require('./firestore');
 
 async function seedData() {
