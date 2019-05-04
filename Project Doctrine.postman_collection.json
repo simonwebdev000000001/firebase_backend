@@ -1,0 +1,1291 @@
+{
+	"id": "3553f394-eb50-c1fe-2c61-2d650b005dea",
+	"name": "Project Doctrine",
+	"description": "",
+	"order": [],
+	"folders": [
+		{
+			"name": "API",
+			"description": "",
+			"collectionId": "3553f394-eb50-c1fe-2c61-2d650b005dea",
+			"order": [],
+			"owner": "6665437",
+			"folders_order": [
+				"78d51aa6-fba6-2188-3102-0450e51dcc5c",
+				"13e9a8ee-3951-5a93-042d-e1cd4c3ee007",
+				"d2843a34-bede-ee15-8835-dbb3a9f6780e",
+				"0e492018-498a-2ffd-deb8-53a824f85ca5",
+				"df34eca2-e288-ed47-200e-91d64ba5a2d4",
+				"a09dd7d3-fd5c-97bf-e82f-ac7949c1a6a3"
+			],
+			"id": "99b78ceb-c700-1f9a-6c55-b458e70874dc"
+		},
+		{
+			"name": "Auth",
+			"description": "",
+			"collectionId": "3553f394-eb50-c1fe-2c61-2d650b005dea",
+			"order": [
+				"57367a20-70d4-4e93-731f-10b6a97897b6",
+				"983db822-59e1-8274-8c7a-8dbce9217f16",
+				"6c6f7603-f399-a3a8-c89f-331d1daf9443"
+			],
+			"owner": "6665437",
+			"folders_order": [],
+			"id": "0d3bf996-16ac-b483-3cd3-70353952f539"
+		},
+		{
+			"name": "Devices",
+			"description": "",
+			"collectionId": "3553f394-eb50-c1fe-2c61-2d650b005dea",
+			"order": [
+				"57684a6c-4a38-d6a1-e0fe-1e3f1ee1a73b",
+				"f8917fcd-3d9b-c1a3-e6b5-de64dbc11847",
+				"f9bb20e4-1e5f-2128-934a-548ce6b52234",
+				"4785543c-2866-bb25-2c43-288b83eb2bc2",
+				"fd0e0e22-ba4c-3623-157f-fd3910ea4c3a"
+			],
+			"owner": "6665437",
+			"folder": "99b78ceb-c700-1f9a-6c55-b458e70874dc",
+			"folders_order": [],
+			"id": "0e492018-498a-2ffd-deb8-53a824f85ca5"
+		},
+		{
+			"name": "Logs",
+			"description": "",
+			"collectionId": "3553f394-eb50-c1fe-2c61-2d650b005dea",
+			"order": [
+				"d96ba725-8ac3-d129-3207-17710166455b",
+				"34d84a14-bf69-12e6-dc83-696f63becf8d",
+				"8930704f-7e46-bdd7-9330-c2a45ab83eed",
+				"d02c141d-461d-f812-d58c-d5c7b76a50ee",
+				"4165d3bc-942e-e062-0c48-60e85901cfca"
+			],
+			"owner": "6665437",
+			"folder": "99b78ceb-c700-1f9a-6c55-b458e70874dc",
+			"folders_order": [],
+			"id": "df34eca2-e288-ed47-200e-91d64ba5a2d4"
+		},
+		{
+			"name": "Settings",
+			"description": "",
+			"collectionId": "3553f394-eb50-c1fe-2c61-2d650b005dea",
+			"order": [
+				"5b89581b-daeb-d86c-1ad4-06135e299f59",
+				"8ae5ef66-42f8-8c06-66ef-93cb899e9828",
+				"046b77c0-1841-1ad0-5a17-1e2015f5fb50",
+				"a6fd1114-7ebc-e995-ce6d-dff71aa85007",
+				"a8a8c24b-0a8d-3f82-594f-70196e9015c3"
+			],
+			"owner": "6665437",
+			"folder": "99b78ceb-c700-1f9a-6c55-b458e70874dc",
+			"folders_order": [],
+			"id": "a09dd7d3-fd5c-97bf-e82f-ac7949c1a6a3"
+		},
+		{
+			"name": "Tenants",
+			"description": "",
+			"collectionId": "3553f394-eb50-c1fe-2c61-2d650b005dea",
+			"order": [
+				"14ed4982-d6e0-8814-30a0-4c5e7c4d8d9a",
+				"acc574a1-6c95-7d90-4f56-1eb8c660a52c",
+				"87bccabd-fff1-1bbe-59d5-b495c93ba1a3",
+				"36d3ca26-86c9-8b12-4442-325d069ec690",
+				"aadf09d2-cae1-5274-1be0-81e83a78114e"
+			],
+			"owner": "6665437",
+			"folder": "99b78ceb-c700-1f9a-6c55-b458e70874dc",
+			"folders_order": [],
+			"id": "d2843a34-bede-ee15-8835-dbb3a9f6780e"
+		},
+		{
+			"name": "User",
+			"description": "",
+			"collectionId": "3553f394-eb50-c1fe-2c61-2d650b005dea",
+			"order": [
+				"41aeba71-7668-db75-8cac-e2ebcf922af9",
+				"03cbcb55-7424-e50e-4a4a-5fb57141cb94"
+			],
+			"owner": "6665437",
+			"folder": "99b78ceb-c700-1f9a-6c55-b458e70874dc",
+			"folders_order": [],
+			"id": "78d51aa6-fba6-2188-3102-0450e51dcc5c"
+		},
+		{
+			"name": "Users",
+			"description": "",
+			"collectionId": "3553f394-eb50-c1fe-2c61-2d650b005dea",
+			"order": [
+				"d6d19bb4-4f91-185b-1944-8026bf6ae780",
+				"8ebde638-d968-d790-6cc2-6bb607f829b8",
+				"1c195f12-b9bb-d4a0-c92d-0d2566188bc7",
+				"7d7a598f-cb43-cd56-5c8a-2ac5eb0e432d",
+				"66a5d07d-19ac-b88b-d790-db14df199eff"
+			],
+			"owner": "6665437",
+			"folder": "99b78ceb-c700-1f9a-6c55-b458e70874dc",
+			"folders_order": [],
+			"id": "13e9a8ee-3951-5a93-042d-e1cd4c3ee007"
+		}
+	],
+	"folders_order": [
+		"0d3bf996-16ac-b483-3cd3-70353952f539",
+		"99b78ceb-c700-1f9a-6c55-b458e70874dc"
+	],
+	"timestamp": 1556907188853,
+	"owner": "6665437",
+	"public": false,
+	"requests": [
+		{
+			"id": "03cbcb55-7424-e50e-4a4a-5fb57141cb94",
+			"headers": "Content-Type: application/json\nAuthorization: {{JWT_TOKEN}}\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "{{JWT_TOKEN}}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "{{SERVER_URL}}/api/user/logOut",
+			"folder": "78d51aa6-fba6-2188-3102-0450e51dcc5c",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": [],
+			"dataMode": "raw",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1556956789738,
+			"name": "logOut",
+			"description": "",
+			"collectionId": "3553f394-eb50-c1fe-2c61-2d650b005dea",
+			"responses": [],
+			"rawModeData": "{\n\t\"email\":\"simonpas323@gmail.com\",\n\t\"password\":\"1111#Ddsa\"\n}"
+		},
+		{
+			"id": "046b77c0-1841-1ad0-5a17-1e2015f5fb50",
+			"headers": "Content-Type: application/json\nAuthorization: {{JWT_TOKEN}}\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "{{JWT_TOKEN}}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "{{SERVER_URL}}/api/settings/Z1htgy6asVnZTe0HWsnr",
+			"folder": "a09dd7d3-fd5c-97bf-e82f-ac7949c1a6a3",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "PUT",
+			"data": [],
+			"dataMode": "raw",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1556976143346,
+			"name": "edit settings",
+			"description": "",
+			"collectionId": "3553f394-eb50-c1fe-2c61-2d650b005dea",
+			"responses": [],
+			"rawModeData": "{\n\t\"id\":-1, \n    \"var2\": \"test@test3.test.com\", \n    \"location\": \"Adessa\"\n}"
+		},
+		{
+			"id": "14ed4982-d6e0-8814-30a0-4c5e7c4d8d9a",
+			"headers": "Content-Type: application/json\nAuthorization: {{JWT_TOKEN}}\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "{{JWT_TOKEN}}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "{{SERVER_URL}}/api/tenants?startAt=O&&orderBy=name&limit=1",
+			"folder": "d2843a34-bede-ee15-8835-dbb3a9f6780e",
+			"queryParams": [
+				{
+					"key": "startAt",
+					"value": "O",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "orderBy",
+					"value": "name",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "limit",
+					"value": "1",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": [],
+			"dataMode": "raw",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1556973867626,
+			"name": "fetch tenants",
+			"description": "",
+			"collectionId": "3553f394-eb50-c1fe-2c61-2d650b005dea",
+			"responses": [],
+			"rawModeData": "{\n\t\"email\":\"simonpas323@gmail.com\",\n\t\"password\":\"1111#Ddsa\"\n}"
+		},
+		{
+			"id": "1c195f12-b9bb-d4a0-c92d-0d2566188bc7",
+			"headers": "Content-Type: application/json\nAuthorization: {{JWT_TOKEN}}\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "{{JWT_TOKEN}}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "{{SERVER_URL}}/api/users/ihAvZuinHDa0fVtTvcue",
+			"folder": "13e9a8ee-3951-5a93-042d-e1cd4c3ee007",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "PUT",
+			"data": [],
+			"dataMode": "raw",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1556976470114,
+			"name": "edit user",
+			"description": "",
+			"collectionId": "3553f394-eb50-c1fe-2c61-2d650b005dea",
+			"responses": [],
+			"rawModeData": "{\n\t\"id\":-1,\n  \n            \"email\": \"test@test3.test.com\", \n            \"location\": \"Adessa\"\n}"
+		},
+		{
+			"id": "34d84a14-bf69-12e6-dc83-696f63becf8d",
+			"headers": "Content-Type: application/json\nAuthorization: {{JWT_TOKEN}}\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "{{JWT_TOKEN}}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "{{SERVER_URL}}/api/logs",
+			"folder": "df34eca2-e288-ed47-200e-91d64ba5a2d4",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [],
+			"dataMode": "raw",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1556974831171,
+			"name": "create log",
+			"description": "",
+			"collectionId": "3553f394-eb50-c1fe-2c61-2d650b005dea",
+			"responses": [],
+			"rawModeData": "{\n    \"tenantId\": \"\",\n    \"userId\": \"\",\n    \"portalId\": \"\",\n    \"customerId\": \"\",\n    \"type\": \"\",\n    \"category\": \"\",\n    \"keywords\": \"\",\n    \"status\": \"\",\n    \"sysState\": \"\", \n    \"event\":\"testDevice\",\n    \"var1\":\"32\",\n    \"var3231\":\"32\"\n}"
+		},
+		{
+			"id": "36d3ca26-86c9-8b12-4442-325d069ec690",
+			"headers": "Content-Type: application/json\nAuthorization: {{JWT_TOKEN}}\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "{{JWT_TOKEN}}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "{{SERVER_URL}}/api/tenants/6ipWFq5heuNLOwsXcVia",
+			"folder": "d2843a34-bede-ee15-8835-dbb3a9f6780e",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": [],
+			"dataMode": "raw",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1556974708732,
+			"name": "get tenant",
+			"description": "",
+			"collectionId": "3553f394-eb50-c1fe-2c61-2d650b005dea",
+			"responses": [],
+			"rawModeData": "{\n\t\"id\":-1, \n    \"email\": \"tdt@test3.test.com\", \n    \"location\": \"Kyiv\"\n}"
+		},
+		{
+			"id": "4165d3bc-942e-e062-0c48-60e85901cfca",
+			"headers": "Content-Type: application/json\nAuthorization: {{JWT_TOKEN}}\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "{{JWT_TOKEN}}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "{{SERVER_URL}}/api/devices/5fvkGutA9zRe8jUYTcYC",
+			"folder": "df34eca2-e288-ed47-200e-91d64ba5a2d4",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "DELETE",
+			"data": [],
+			"dataMode": "raw",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1556975957530,
+			"name": "delete log",
+			"description": "",
+			"collectionId": "3553f394-eb50-c1fe-2c61-2d650b005dea",
+			"responses": [],
+			"rawModeData": ""
+		},
+		{
+			"id": "41aeba71-7668-db75-8cac-e2ebcf922af9",
+			"headers": "Content-Type: application/json\nAuthorization: {{JWT_TOKEN}}\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "{{JWT_TOKEN}}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "{{SERVER_URL}}/api/user/psw-reset",
+			"folder": "78d51aa6-fba6-2188-3102-0450e51dcc5c",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [],
+			"dataMode": "raw",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1556957222263,
+			"name": "reset password",
+			"description": "",
+			"collectionId": "3553f394-eb50-c1fe-2c61-2d650b005dea",
+			"responses": [],
+			"rawModeData": "{ \n\t\"password\":\"{{USER_PSW}}\"\n}"
+		},
+		{
+			"id": "4785543c-2866-bb25-2c43-288b83eb2bc2",
+			"headers": "Content-Type: application/json\nAuthorization: {{JWT_TOKEN}}\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "{{JWT_TOKEN}}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "{{SERVER_URL}}/api/devices/BZYrhsdUm03dh6nXJ4vW",
+			"folder": "0e492018-498a-2ffd-deb8-53a824f85ca5",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": [],
+			"dataMode": "raw",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1556974681375,
+			"name": "get device",
+			"description": "",
+			"collectionId": "3553f394-eb50-c1fe-2c61-2d650b005dea",
+			"responses": [],
+			"rawModeData": "{\n\t\"id\":-1, \n    \"email\": \"tdt@test3.test.com\", \n    \"location\": \"Kyiv\"\n}"
+		},
+		{
+			"id": "57367a20-70d4-4e93-731f-10b6a97897b6",
+			"headers": "Content-Type: application/json\nAuthorization: Basic cG9zdG1hbjpwYXNzd29yZA==\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "Basic cG9zdG1hbjpwYXNzd29yZA==",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "{{SERVER_URL}}/auth/login",
+			"folder": "0d3bf996-16ac-b483-3cd3-70353952f539",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [],
+			"dataMode": "raw",
+			"version": 2,
+			"tests": "var jsonData = JSON.parse(responseBody);\r\npostman.setEnvironmentVariable(\"JWT_TOKEN\", jsonData.token);",
+			"currentHelper": "basicAuth",
+			"helperAttributes": {
+				"id": "basic",
+				"username": "postman",
+				"password": "password",
+				"saveToRequest": true
+			},
+			"time": 1556984960621,
+			"name": "login",
+			"description": "",
+			"collectionId": "3553f394-eb50-c1fe-2c61-2d650b005dea",
+			"responses": [],
+			"rawModeData": "{\n\t\"email\":\"{{USER_EMAIL}}\",\n\t\"password\":\"{{USER_PSW}}\"\n}"
+		},
+		{
+			"id": "57684a6c-4a38-d6a1-e0fe-1e3f1ee1a73b",
+			"headers": "Content-Type: application/json\nAuthorization: {{JWT_TOKEN}}\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "{{JWT_TOKEN}}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "{{SERVER_URL}}/api/devices",
+			"folder": "0e492018-498a-2ffd-deb8-53a824f85ca5",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": [],
+			"dataMode": "raw",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1556974517555,
+			"name": "fetch devices",
+			"description": "",
+			"collectionId": "3553f394-eb50-c1fe-2c61-2d650b005dea",
+			"responses": [],
+			"rawModeData": "{\n\t\"email\":\"simonpas323@gmail.com\",\n\t\"password\":\"1111#Ddsa\"\n}"
+		},
+		{
+			"id": "5b89581b-daeb-d86c-1ad4-06135e299f59",
+			"headers": "Content-Type: application/json\nAuthorization: {{JWT_TOKEN}}\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "{{JWT_TOKEN}}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "{{SERVER_URL}}/api/settings",
+			"folder": "a09dd7d3-fd5c-97bf-e82f-ac7949c1a6a3",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": [],
+			"dataMode": "raw",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1556976032397,
+			"name": "fetch settinns",
+			"description": "",
+			"collectionId": "3553f394-eb50-c1fe-2c61-2d650b005dea",
+			"responses": [],
+			"rawModeData": "{\n\t\"email\":\"simonpas323@gmail.com\",\n\t\"password\":\"1111#Ddsa\"\n}"
+		},
+		{
+			"id": "66a5d07d-19ac-b88b-d790-db14df199eff",
+			"headers": "Content-Type: application/json\nAuthorization: {{JWT_TOKEN}}\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "{{JWT_TOKEN}}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "{{SERVER_URL}}/api/users/ulinU4yoaal1t7SG9wf8",
+			"folder": "78d51aa6-fba6-2188-3102-0450e51dcc5c",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "DELETE",
+			"data": [],
+			"dataMode": "raw",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1556972118996,
+			"name": "delete user",
+			"description": "",
+			"collectionId": "3553f394-eb50-c1fe-2c61-2d650b005dea",
+			"responses": [],
+			"rawModeData": "{\n\t\"id\":-1, \n    \"email\": \"tdt@test3.test.com\", \n    \"location\": \"Kyiv\"\n}"
+		},
+		{
+			"id": "6c6f7603-f399-a3a8-c89f-331d1daf9443",
+			"headers": "Content-Type: application/json\n//Authorization: {{JWT_TOKEN}}\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "{{JWT_TOKEN}}",
+					"description": "",
+					"enabled": false
+				}
+			],
+			"url": "{{SERVER_URL}}/auth/forgot-psw",
+			"folder": "0d3bf996-16ac-b483-3cd3-70353952f539",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [],
+			"dataMode": "raw",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1556956374599,
+			"name": "forgot-psw",
+			"description": "",
+			"collectionId": "3553f394-eb50-c1fe-2c61-2d650b005dea",
+			"responses": [],
+			"rawModeData": "{\n\t\"email\":\"{{USER_EMAIL}}\"\n}"
+		},
+		{
+			"id": "7d7a598f-cb43-cd56-5c8a-2ac5eb0e432d",
+			"headers": "Content-Type: application/json\nAuthorization: {{JWT_TOKEN}}\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "{{JWT_TOKEN}}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "{{SERVER_URL}}/api/users/ulinU4yoaal1t7SG9wf8",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "GET",
+			"collectionId": "3553f394-eb50-c1fe-2c61-2d650b005dea",
+			"data": [],
+			"dataMode": "raw",
+			"name": "get user",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1556971059126,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"folder": "13e9a8ee-3951-5a93-042d-e1cd4c3ee007",
+			"rawModeData": "{\n\t\"id\":-1, \n    \"email\": \"tdt@test3.test.com\", \n    \"location\": \"Kyiv\"\n}"
+		},
+		{
+			"id": "87bccabd-fff1-1bbe-59d5-b495c93ba1a3",
+			"headers": "Content-Type: application/json\nAuthorization: {{JWT_TOKEN}}\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "{{JWT_TOKEN}}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "{{SERVER_URL}}/api/tenants/6ipWFq5heuNLOwsXcVia",
+			"folder": "d2843a34-bede-ee15-8835-dbb3a9f6780e",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "PUT",
+			"data": [],
+			"dataMode": "raw",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1556974712532,
+			"name": "edit tenant",
+			"description": "",
+			"collectionId": "3553f394-eb50-c1fe-2c61-2d650b005dea",
+			"responses": [],
+			"rawModeData": "{\n\t\"id\":-1, \n            \"name\": \"test@test3.test.com\", \n            \"location\": \"Adessa\"\n}"
+		},
+		{
+			"id": "8930704f-7e46-bdd7-9330-c2a45ab83eed",
+			"headers": "Content-Type: application/json\nAuthorization: {{JWT_TOKEN}}\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "{{JWT_TOKEN}}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "{{SERVER_URL}}/api/logs/5fvkGutA9zRe8jUYTcYC",
+			"folder": "df34eca2-e288-ed47-200e-91d64ba5a2d4",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "PUT",
+			"data": [],
+			"dataMode": "raw",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1556975840354,
+			"name": "edit log",
+			"description": "",
+			"collectionId": "3553f394-eb50-c1fe-2c61-2d650b005dea",
+			"responses": [],
+			"rawModeData": "{\n\t\"id\":-1, \n    \"event\": \"test@test3.test.com\", \n    \"location\": \"Adessa\"\n}"
+		},
+		{
+			"id": "8ae5ef66-42f8-8c06-66ef-93cb899e9828",
+			"headers": "Content-Type: application/json\nAuthorization: {{JWT_TOKEN}}\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "{{JWT_TOKEN}}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "{{SERVER_URL}}/api/settings",
+			"folder": "a09dd7d3-fd5c-97bf-e82f-ac7949c1a6a3",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [],
+			"dataMode": "raw",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1556976034509,
+			"name": "create settinng",
+			"description": "",
+			"collectionId": "3553f394-eb50-c1fe-2c61-2d650b005dea",
+			"responses": [],
+			"rawModeData": "{\n    \"tenantId\": \"\",\n    \"userId\": \"\",\n    \"portalId\": \"\",\n    \"customerId\": \"\",\n    \"type\": \"\",\n    \"category\": \"\",\n    \"keywords\": \"\",\n    \"status\": \"\",\n    \"sysState\": \"\", \n    \"event\":\"testDevice\",\n    \"var1\":\"32\",\n    \"var3231\":\"32\"\n}"
+		},
+		{
+			"id": "8ebde638-d968-d790-6cc2-6bb607f829b8",
+			"headers": "Content-Type: application/json\nAuthorization: {{JWT_TOKEN}}\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "{{JWT_TOKEN}}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "{{SERVER_URL}}/api/users",
+			"folder": "13e9a8ee-3951-5a93-042d-e1cd4c3ee007",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [],
+			"dataMode": "raw",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1556974721227,
+			"name": "create user",
+			"description": "",
+			"collectionId": "3553f394-eb50-c1fe-2c61-2d650b005dea",
+			"responses": [],
+			"rawModeData": "{\n            \"tenantId\": \"\",\n            \"userId\": \"\",\n            \"portalId\": \"\",\n            \"customerId\": \"\",\n            \"type\": \"\",\n            \"category\": \"\",\n            \"keywords\": \"\",\n            \"status\": \"\",\n            \"sysState\": \"\",\n            \"dateCreated\": \"Saturday, May 4, 2019 12:00 AM\",\n            \"dateEdited\": \"Saturday, May 4, 2019 12:00 AM\",\n            \"createdBy\": \"\",\n            \"editedBy\": \"\",\n            \"role\": \"\",\n            \"title\": \"\",\n            \"firstName\": \"Alan212\",\n            \"lastName\": \"Mathison\",\n            \"email\": \"test@test3.test.com\",\n            \"phoneMobile\": \"\",\n            \"tenant\": \"\",\n            \"tenantName\": \"\",\n            \"settings\": \"\",\n            \"portal\": \"\",\n            \"location\": \"Odessa\",\n            \"id\": \"NAKYesi5vLmKP3DTJebb\"\n        }"
+		},
+		{
+			"id": "983db822-59e1-8274-8c7a-8dbce9217f16",
+			"headers": "Content-Type: application/json\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "{{SERVER_URL}}/auth/register",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [],
+			"dataMode": "raw",
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1556956635639,
+			"name": "register",
+			"description": "",
+			"collectionId": "3553f394-eb50-c1fe-2c61-2d650b005dea",
+			"responses": [],
+			"rawModeData": "{\n\t\"email\":\"{{USER_EMAIL}}\",\n\t\"password\":\"{{USER_PSW}}\"\n}"
+		},
+		{
+			"id": "a6fd1114-7ebc-e995-ce6d-dff71aa85007",
+			"headers": "Content-Type: application/json\nAuthorization: {{JWT_TOKEN}}\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "{{JWT_TOKEN}}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "{{SERVER_URL}}/api/settings/Z1htgy6asVnZTe0HWsnr",
+			"folder": "a09dd7d3-fd5c-97bf-e82f-ac7949c1a6a3",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": [],
+			"dataMode": "raw",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1556976171459,
+			"name": "get settings",
+			"description": "",
+			"collectionId": "3553f394-eb50-c1fe-2c61-2d650b005dea",
+			"responses": [],
+			"rawModeData": "{\n\t\"id\":-1, \n    \"email\": \"tdt@test3.test.com\", \n    \"location\": \"Kyiv\"\n}"
+		},
+		{
+			"id": "a8a8c24b-0a8d-3f82-594f-70196e9015c3",
+			"headers": "Content-Type: application/json\nAuthorization: {{JWT_TOKEN}}\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "{{JWT_TOKEN}}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "{{SERVER_URL}}/api/settings/Z1htgy6asVnZTe0HWsnr",
+			"folder": "a09dd7d3-fd5c-97bf-e82f-ac7949c1a6a3",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "DELETE",
+			"data": [],
+			"dataMode": "raw",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1556976185806,
+			"name": "delete settings",
+			"description": "",
+			"collectionId": "3553f394-eb50-c1fe-2c61-2d650b005dea",
+			"responses": [],
+			"rawModeData": ""
+		},
+		{
+			"id": "aadf09d2-cae1-5274-1be0-81e83a78114e",
+			"headers": "Content-Type: application/json\nAuthorization: {{JWT_TOKEN}}\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "{{JWT_TOKEN}}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "{{SERVER_URL}}/api/tenants/6ipWFq5heuNLOwsXcVia",
+			"folder": "d2843a34-bede-ee15-8835-dbb3a9f6780e",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "DELETE",
+			"data": [],
+			"dataMode": "raw",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1556974706396,
+			"name": "delete tenant",
+			"description": "",
+			"collectionId": "3553f394-eb50-c1fe-2c61-2d650b005dea",
+			"responses": [],
+			"rawModeData": "{\n\t\"id\":-1, \n    \"email\": \"tdt@test3.test.com\", \n    \"location\": \"Kyiv\"\n}"
+		},
+		{
+			"id": "acc574a1-6c95-7d90-4f56-1eb8c660a52c",
+			"headers": "Content-Type: application/json\nAuthorization: {{JWT_TOKEN}}\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "{{JWT_TOKEN}}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "{{SERVER_URL}}/api/tenants",
+			"folder": "d2843a34-bede-ee15-8835-dbb3a9f6780e",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [],
+			"dataMode": "raw",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1556974714796,
+			"name": "create tenant",
+			"description": "",
+			"collectionId": "3553f394-eb50-c1fe-2c61-2d650b005dea",
+			"responses": [],
+			"rawModeData": "{\n    \"tenantId\": \"\",\n    \"userId\": \"\",\n    \"portalId\": \"\",\n    \"customerId\": \"\",\n    \"type\": \"\",\n    \"category\": \"\",\n    \"keywords\": \"\",\n    \"status\": \"\",\n    \"sysState\": \"\", \n    \"name\":\"2test1\"\n}"
+		},
+		{
+			"id": "d02c141d-461d-f812-d58c-d5c7b76a50ee",
+			"headers": "Content-Type: application/json\nAuthorization: {{JWT_TOKEN}}\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "{{JWT_TOKEN}}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "{{SERVER_URL}}/api/logs/5fvkGutA9zRe8jUYTcYC",
+			"folder": "df34eca2-e288-ed47-200e-91d64ba5a2d4",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": [],
+			"dataMode": "raw",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1556975829685,
+			"name": "get log",
+			"description": "",
+			"collectionId": "3553f394-eb50-c1fe-2c61-2d650b005dea",
+			"responses": [],
+			"rawModeData": "{\n\t\"id\":-1, \n    \"email\": \"tdt@test3.test.com\", \n    \"location\": \"Kyiv\"\n}"
+		},
+		{
+			"id": "d6d19bb4-4f91-185b-1944-8026bf6ae780",
+			"headers": "Content-Type: application/json\nAuthorization: {{JWT_TOKEN}}\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "{{JWT_TOKEN}}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "{{SERVER_URL}}/api/users?startAt=O&&orderBy=location&limit=1",
+			"folder": "78d51aa6-fba6-2188-3102-0450e51dcc5c",
+			"queryParams": [
+				{
+					"key": "startAt",
+					"value": "O",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "orderBy",
+					"value": "location",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "limit",
+					"value": "1",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": [],
+			"dataMode": "raw",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1556971930457,
+			"name": "fetch users",
+			"description": "",
+			"collectionId": "3553f394-eb50-c1fe-2c61-2d650b005dea",
+			"responses": [],
+			"rawModeData": "{\n\t\"email\":\"simonpas323@gmail.com\",\n\t\"password\":\"1111#Ddsa\"\n}"
+		},
+		{
+			"id": "d96ba725-8ac3-d129-3207-17710166455b",
+			"headers": "Content-Type: application/json\nAuthorization: {{JWT_TOKEN}}\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "{{JWT_TOKEN}}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "{{SERVER_URL}}/api/logs",
+			"folder": "df34eca2-e288-ed47-200e-91d64ba5a2d4",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": [],
+			"dataMode": "raw",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1556974788848,
+			"name": "fetch logs",
+			"description": "",
+			"collectionId": "3553f394-eb50-c1fe-2c61-2d650b005dea",
+			"responses": [],
+			"rawModeData": "{\n\t\"email\":\"simonpas323@gmail.com\",\n\t\"password\":\"1111#Ddsa\"\n}"
+		},
+		{
+			"id": "f8917fcd-3d9b-c1a3-e6b5-de64dbc11847",
+			"headers": "Content-Type: application/json\nAuthorization: {{JWT_TOKEN}}\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "{{JWT_TOKEN}}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "{{SERVER_URL}}/api/devices",
+			"folder": "0e492018-498a-2ffd-deb8-53a824f85ca5",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [],
+			"dataMode": "raw",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1556974700803,
+			"name": "create device",
+			"description": "",
+			"collectionId": "3553f394-eb50-c1fe-2c61-2d650b005dea",
+			"responses": [],
+			"rawModeData": "{\n    \"tenantId\": \"\",\n    \"userId\": \"\",\n    \"portalId\": \"\",\n    \"customerId\": \"\",\n    \"type\": \"\",\n    \"category\": \"\",\n    \"keywords\": \"\",\n    \"status\": \"\",\n    \"sysState\": \"\", \n    \"name\":\"testDevice\",\n    \"lastLogin\":\"32\"\n}"
+		},
+		{
+			"id": "f9bb20e4-1e5f-2128-934a-548ce6b52234",
+			"headers": "Content-Type: application/json\nAuthorization: {{JWT_TOKEN}}\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "{{JWT_TOKEN}}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "{{SERVER_URL}}/api/devices/BZYrhsdUm03dh6nXJ4vW",
+			"folder": "0e492018-498a-2ffd-deb8-53a824f85ca5",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "PUT",
+			"data": [],
+			"dataMode": "raw",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1556974696740,
+			"name": "edit device",
+			"description": "",
+			"collectionId": "3553f394-eb50-c1fe-2c61-2d650b005dea",
+			"responses": [],
+			"rawModeData": "{\n\t\"id\":-1, \n    \"name\": \"test@test3.test.com\", \n    \"location\": \"Adessa\"\n}"
+		},
+		{
+			"id": "fd0e0e22-ba4c-3623-157f-fd3910ea4c3a",
+			"headers": "Content-Type: application/json\nAuthorization: {{JWT_TOKEN}}\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "{{JWT_TOKEN}}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "{{SERVER_URL}}/api/devices/BZYrhsdUm03dh6nXJ4vW",
+			"folder": "0e492018-498a-2ffd-deb8-53a824f85ca5",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "DELETE",
+			"data": [],
+			"dataMode": "raw",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1556974764254,
+			"name": "delete device",
+			"description": "",
+			"collectionId": "3553f394-eb50-c1fe-2c61-2d650b005dea",
+			"responses": [],
+			"rawModeData": ""
+		}
+	]
+}
